@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
      <titleStmt>
-        <title>Noites de Cintra: Edição para o ELTeC</title>
-        <author ref="viaf:64047987">Pimentel, Alberto (1849-1925)</author>
+        <title ref="wikidata:Q111096225">Noites de Cintra: Edição para o ELTeC</title>
+        <author ref="viaf:64047987 wikidata:Q16487084">Pimentel, Alberto (1849-1925)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Pedro Saborano</name>

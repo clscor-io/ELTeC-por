@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Providência: Edição para o ELTeC</title>
-<author ref="viaf:99738093">Sarmento, Augusto (1835-?) </author>
+<title ref="wikidata:Q111096272">Providência: Edição para o ELTeC</title>
+<author ref="viaf:99738093 wikidata:Q111081943">Sarmento, Augusto (1835-?) </author>
 <respStmt>
 <resp>Criação do HTML original</resp>
 <name>Inês Lucas</name>

@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
      <titleStmt>
-        <title>Transviado: Edição para o ELTeC</title>
-        <author ref="viaf:6967932">Lima, Jaime de Magalhães (1859-1936)</author>
+        <title ref="wikidata:Q111096275">Transviado: Edição para o ELTeC</title>
+        <author ref="viaf:6967932 wikidata:Q385138">Lima, Jaime de Magalhães (1859-1936)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Pedro Saborano</name>

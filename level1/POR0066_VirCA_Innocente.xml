@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Inocente: Edição para o ELTeC</title>
-<author ref="viaf:74000809">Castro e Almeida, Virgínia de (1874-1945)</author>
+<title ref="wikidata:Q111096218">Inocente: Edição para o ELTeC</title>
+<author ref="viaf:74000809 wikidata:Q19974549">Castro e Almeida, Virgínia de (1874-1945)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
        <name>André Rodrigues</name>

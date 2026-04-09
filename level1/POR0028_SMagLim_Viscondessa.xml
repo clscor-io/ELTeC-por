@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
      <titleStmt>
-        <title>A senhora viscondessa: Edição para o ELTeC</title>
-        <author ref="viaf:56893154">Lima, Sebastião de Magalhães (1850-1928)</author>
+        <title ref="wikidata:Q111096198">A senhora viscondessa: Edição para o ELTeC</title>
+        <author ref="viaf:56893154 wikidata:Q3476927">Lima, Sebastião de Magalhães (1850-1928)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Pedro Saborano</name>

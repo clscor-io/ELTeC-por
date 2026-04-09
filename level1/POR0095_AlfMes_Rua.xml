@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>A rua do oiro: Edição para o ELTeC</title>
+<title ref="wikidata:Q111096193">A rua do oiro: Edição para o ELTeC</title>
 <title level="s">Romance lisboeta </title>
-<author ref="viaf:75465963">Mesquita, Alfredo de (1871-1931)</author>
+<author ref="viaf:75465963 wikidata:Q9603240">Mesquita, Alfredo de (1871-1931)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Inês Lucas</name>

@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Os Maias: Edição para o ELTeC</title>
+<title ref="wikidata:Q3057582">Os Maias: Edição para o ELTeC</title>
 <title level="s">Episódios da Vida Romântica</title>
-<author ref="viaf:88719234">Eça de Queirós, José Maria de (1845-1900)</author>
+<author ref="viaf:88719234 wikidata:Q316327">Eça de Queirós, José Maria de (1845-1900)</author>
 <respStmt>
 <resp>Criação do HTML original</resp>
 <name>Rita Farinha</name>

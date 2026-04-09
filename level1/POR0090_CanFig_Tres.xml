@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Lisboa no Ano Três Mil: Edição para o ELTeC</title>
-<author ref="viaf:7482362">Figueiredo, Cândido de (1846-1925)</author>
+<title ref="wikidata:Q111096219">Lisboa no Ano Três Mil: Edição para o ELTeC</title>
+<author ref="viaf:7482362 wikidata:Q10263005">Figueiredo, Cândido de (1846-1925)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Ricardo Lourenço</name> 

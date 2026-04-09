@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>A infâmia de Frei Quintino: Edição para o ELTeC</title>
+<title ref="wikidata:Q111096183">A infâmia de Frei Quintino: Edição para o ELTeC</title>
 <title level="s">Romance duma família </title>
-<author ref="viaf:78355897">Loureiro, Urbano (1845-1880)</author>
+<author ref="viaf:78355897 wikidata:Q23771077">Loureiro, Urbano (1845-1880)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Vanda Morgado</name>

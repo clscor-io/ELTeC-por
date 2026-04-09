@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>A senhora duquesa: Edição para o ELTeC</title>
-<author ref="viaf:4959274">Cordeiro, Luciano (1844-1900)</author>
+<title ref="wikidata:Q111096196">A senhora duquesa: Edição para o ELTeC</title>
+<author ref="viaf:4959274 wikidata:Q971935">Cordeiro, Luciano (1844-1900)</author>
 <respStmt>
 <resp>Criação do HTML original</resp>
 <name>Madalena Rato</name>

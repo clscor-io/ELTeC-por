@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>O médico do deserto: Edição para o ELTeC</title>
-<author ref="viaf:89396752">Bastos, José Joaquim Rodrigues de (1777-1862)</author>
+<title ref="wikidata:Q111096243">O médico do deserto: Edição para o ELTeC</title>
+<author ref="viaf:89396752 wikidata:Q21483097">Bastos, José Joaquim Rodrigues de (1777-1862)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Vanda Morgado</name>

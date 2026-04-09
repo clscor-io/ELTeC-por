@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>A pálida estrela: Edição para o ELTeC</title>
-<author ref="viaf:50072721">Bulhão Pato, Raimundo António de (1828-1912)</author>
+<title ref="wikidata:Q111096189">A pálida estrela: Edição para o ELTeC</title>
+<author ref="viaf:50072721 wikidata:Q10357117">Bulhão Pato, Raimundo António de (1828-1912)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Diana Santos</name>

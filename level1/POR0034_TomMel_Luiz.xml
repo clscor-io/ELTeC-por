@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
      <titleStmt>
-        <title>O Conde de S. Luís: Edição para o ELTeC</title>
-        <author ref="viaf:99963991">Melo, Tomás de (1836-1905)</author>
+        <title ref="wikidata:Q111096231">O Conde de S. Luís: Edição para o ELTeC</title>
+        <author ref="viaf:99963991 wikidata:Q10383136">Melo, Tomás de (1836-1905)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Júlio Reis</name>

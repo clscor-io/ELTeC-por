@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>A ermida de Castromino: Edição para o ELTeC</title>
-<author ref="viaf:44308677">Vasconcelos, Antonio Augusto Teixeira de (1816-1878)</author>
+<title ref="wikidata:Q111096177">A ermida de Castromino: Edição para o ELTeC</title>
+<author ref="viaf:44308677 wikidata:Q16491165">Vasconcelos, Antonio Augusto Teixeira de (1816-1878)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Diana Santos</name>

@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Amor de Perdição: Edição para o ELTeC</title>
+<title ref="wikidata:Q3614519">Amor de Perdição: Edição para o ELTeC</title>
 <title level="s">Memórias duma família</title>
-<author ref="viaf:7399630">Castelo Branco, Camilo (1825-1890)</author>
+<author ref="viaf:7399630 wikidata:Q365423">Castelo Branco, Camilo (1825-1890)</author>
 <respStmt>
 <resp>Criação do HTML original</resp>
 <name>Rita Farinha</name>

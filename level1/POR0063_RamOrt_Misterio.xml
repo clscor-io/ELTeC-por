@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
      <titleStmt>
-        <title>O Mistério da Estrada de Sintra: Edição para o ELTeC</title>
-        <author ref="viaf:56623354">Ramalho Ortigão, José Duarte (1836-1915)</author>
+        <title ref="wikidata:Q10339438">O Mistério da Estrada de Sintra: Edição para o ELTeC</title>
+        <author ref="viaf:56623354 wikidata:Q2096754">Ramalho Ortigão, José Duarte (1836-1915)</author>
 	<author ref="viaf:88719234">Eça de Queirós, José Maria de (1845-1900)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>

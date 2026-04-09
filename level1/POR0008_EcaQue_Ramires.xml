@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>A ilustre casa de Ramires: Edição para o ELTeC</title>
-<author ref="viaf:88719234">Eça de Queirós, José Maria de (1845-1900)</author>
+<title ref="wikidata:Q15634456">A ilustre casa de Ramires: Edição para o ELTeC</title>
+<author ref="viaf:88719234 wikidata:Q316327">Eça de Queirós, José Maria de (1845-1900)</author>
 <respStmt>
 <resp>Criação do HTML original</resp>
 <name>Rita Farinha</name>

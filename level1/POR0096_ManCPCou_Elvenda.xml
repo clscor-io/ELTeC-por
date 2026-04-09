@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Elvenda, ou Conquista de Coimbra por Fernando Magno: Edição para o ELTeC</title>
+<title ref="wikidata:Q111096210">Elvenda, ou Conquista de Coimbra por Fernando Magno: Edição para o ELTeC</title>
 <title level="s">Romance histórico e moral elaborado sobre factos do século XI</title>
-<author ref="viaf:100053391">Coutinho, Manuel da Cruz Pereira (1808-1880)</author>
+<author ref="viaf:100053391 wikidata:Q111081933">Coutinho, Manuel da Cruz Pereira (1808-1880)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Madalena Rato</name>

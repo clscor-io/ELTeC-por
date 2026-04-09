@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Infaustas Aventuras de Mestre Marçal Estouro: Edição para o ELTeC</title>
+<title ref="wikidata:Q111096217">Infaustas Aventuras de Mestre Marçal Estouro: Edição para o ELTeC</title>
 <title level="s">Vítima duma paixão</title>
-<author ref="viaf:8873105">Leal, José da Silva Mendes (1818-1886)</author>
+<author ref="viaf:8873105 wikidata:Q4993388">Leal, José da Silva Mendes (1818-1886)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Diana Santos</name>

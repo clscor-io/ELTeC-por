@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Ele : edição para o ELTeC</title>
-<author ref="viaf:1160148390823010830009">Campos, Claudia de (1859-1916)</author>
+<title ref="wikidata:Q111096209">Ele : edição para o ELTeC</title>
+<author ref="viaf:1160148390823010830009 wikidata:Q17280314">Campos, Claudia de (1859-1916)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Adeliana Silva</name>

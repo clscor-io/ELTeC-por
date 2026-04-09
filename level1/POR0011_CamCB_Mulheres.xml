@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
      <titleStmt>
-        <title>O que fazem mulheres: Edição para o ELTeC</title>
+        <title ref="wikidata:Q89458409">O que fazem mulheres: Edição para o ELTeC</title>
 <title level="s">Romance filosófico</title>
-        <author ref="viaf:7399630">Castelo Branco, Camilo (1825-1890)</author>
+        <author ref="viaf:7399630 wikidata:Q365423">Castelo Branco, Camilo (1825-1890)</author>
         <respStmt>
 <resp>Criação do HTML original</resp>
 <name>Pedro Saborano</name>

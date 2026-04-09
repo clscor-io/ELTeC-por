@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Os quatro reis impostores: Edição para o ELTeC</title>
+<title ref="wikidata:Q111096268">Os quatro reis impostores: Edição para o ELTeC</title>
 <title level="s">Romance da história </title>
-<author ref="viaf:62652518">Mesquita, Marcelino (1856-1919)</author>
+<author ref="viaf:62652518 wikidata:Q10325012">Mesquita, Marcelino (1856-1919)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Alina Baldé</name>

@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>O Crime do Padre Amaro: Edição para o ELTeC</title>
+<title ref="wikidata:Q3282044">O Crime do Padre Amaro: Edição para o ELTeC</title>
 <title level="s">Cenas da Vida Devota</title>
-<author ref="viaf:88719234">Eça de Queirós, José Maria de (1845-1900)</author>
+<author ref="viaf:88719234 wikidata:Q316327">Eça de Queirós, José Maria de (1845-1900)</author>
 <respStmt>
 <resp>Criação do HTML original</resp>
 <name>Rita Farinha</name>

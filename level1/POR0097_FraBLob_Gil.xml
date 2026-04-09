@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>O Tio João Gil: Edição para o ELTeC</title>
+<title ref="wikidata:Q111096254">O Tio João Gil: Edição para o ELTeC</title>
 <title level="s">Crónica d'Aldeia</title>
-<author ref="viaf:99349874">Lobo, Francisco Barros (? - ?)</author>
+<author ref="viaf:99349874 wikidata:Q111081935">Lobo, Francisco Barros (? - ?)</author>
 <respStmt>
 <resp>Criação do HTML original</resp>
 <name>Madalena Rato</name>

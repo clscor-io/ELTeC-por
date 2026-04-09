@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Os Brâmanes: Edição para o ELTeC</title>
-<author ref="viaf:21089001">Gomes, Francisco Luís (1829-1869) </author>
+<title ref="wikidata:Q111096256">Os Brâmanes: Edição para o ELTeC</title>
+<author ref="viaf:21089001 wikidata:Q5483610">Gomes, Francisco Luís (1829-1869) </author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Vanda Morgado</name>

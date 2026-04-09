@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
      <titleStmt>
-        <title>Memórias de um doido: Edição para o ELTeC</title>
+        <title ref="wikidata:Q111096223">Memórias de um doido: Edição para o ELTeC</title>
 <title level="s">romance contemporâneo</title>
-        <author ref="viaf:27059459">Mendonça, António Pedro Lopes de (1826-1865)</author>
+        <author ref="viaf:27059459 wikidata:Q16492186">Mendonça, António Pedro Lopes de (1826-1865)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Vanda Morgado</name>

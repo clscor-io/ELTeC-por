@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
      <titleStmt>
-        <title>Os tripeiros: Edição para o ELTeC</title>
+        <title ref="wikidata:Q111096270">Os tripeiros: Edição para o ELTeC</title>
 	<title level="s">Crónica do século XIV</title>
-        <author ref="viaf:99088245">Lousada, António José Coelho (1828-1859)</author>
+        <author ref="viaf:99088245 wikidata:Q111081936">Lousada, António José Coelho (1828-1859)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
            <name>Luso-Livros</name>

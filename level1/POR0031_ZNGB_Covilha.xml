@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
      <titleStmt>
-        <title>Pero da Covilhã: Edição para o ELTeC</title>
+        <title ref="wikidata:Q111096271">Pero da Covilhã: Edição para o ELTeC</title>
 <title level="s">Episódio Romântico do Século XV</title>
-        <author ref="viaf:99344619">Brandão, Zeferino Norberto Gonçalves (1842-1910)</author>
+        <author ref="viaf:99344619 wikidata:Q10394987">Brandão, Zeferino Norberto Gonçalves (1842-1910)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Pedro Saborano</name>

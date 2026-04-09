@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
      <titleStmt>
-        <title>Os filhos do padre Anselmo: Edição para o ELTeC</title>
-        <author ref="viaf:99372166">Albergaria, António da Costa Couto Sá de (1850-1921)</author>
+        <title ref="wikidata:Q111096261">Os filhos do padre Anselmo: Edição para o ELTeC</title>
+        <author ref="viaf:99372166 wikidata:Q9619400">Albergaria, António da Costa Couto Sá de (1850-1921)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Ricardo F. Diogo</name>

@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
      <titleStmt>
-        <title>O Annel Mysterioso: Edição para o ELTeC</title>
+        <title ref="wikidata:Q111096228">O Annel Mysterioso: Edição para o ELTeC</title>
         <title level="s">Scenas da Guerra Peninsular</title>
-        <author ref="viaf:64047987">Pimentel, Alberto (1849-1925)</author>
+        <author ref="viaf:64047987 wikidata:Q16487084">Pimentel, Alberto (1849-1925)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Pedro Saborano</name>

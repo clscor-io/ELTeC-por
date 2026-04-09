@@ -7,7 +7,7 @@
 <teiHeader>
 <fileDesc>
      <titleStmt>
-        <title>O Marquês da Bacalhoa: Edição para o ELTeC</title>
+        <title ref="wikidata:Q111096242">O Marquês da Bacalhoa: Edição para o ELTeC</title>
         <author>Albuquerque, António de (1866-1923)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>

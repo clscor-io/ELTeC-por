@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>A vida por um prejuízo: Edição para o ELTeC</title>
-<author ref="viaf:23763399">Pestana, Alice (1860-1929) </author>
+<title ref="wikidata:Q111096200">A vida por um prejuízo: Edição para o ELTeC</title>
+<author ref="viaf:23763399 wikidata:Q16911690">Pestana, Alice (1860-1929) </author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Diana Santos</name>

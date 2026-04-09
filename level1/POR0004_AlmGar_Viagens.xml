@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Viagens na minha terra: Edição para o ELTeC</title>
-<author ref="viaf:12303244">Almeida Garrett, João Baptista da Silva Leitão de (1799-1854)</author>
+<title ref="wikidata:Q9093172">Viagens na minha terra: Edição para o ELTeC</title>
+<author ref="viaf:12303244 wikidata:Q316806">Almeida Garrett, João Baptista da Silva Leitão de (1799-1854)</author>
 <respStmt>
 <resp>Criação do HTML original</resp>
 <name>Rita Farinha</name>

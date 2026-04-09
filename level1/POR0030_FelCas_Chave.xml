@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
      <titleStmt>
-        <title>A chave do enigma: Edição para o ELTeC</title>
-        <author ref="viaf:135007">Castilho, António Feliciano de (1800-1875)</author>
+        <title ref="wikidata:Q111096173">A chave do enigma: Edição para o ELTeC</title>
+        <author ref="viaf:135007 wikidata:Q2624029">Castilho, António Feliciano de (1800-1875)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Pedro Saborano</name>

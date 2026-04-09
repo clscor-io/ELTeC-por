@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
      <titleStmt>
-        <title>Um conto portuguez: Edição para o ELTeC</title>
+        <title ref="wikidata:Q111096276">Um conto portuguez: Edição para o ELTeC</title>
         <title level="s">episódio da guerra civil: a Maria da Fonte</title>
-        <author ref="viaf:99421824">Mascarenhas, Miguel J. T. (?-?)</author>
+        <author ref="viaf:99421824 wikidata:Q111081937">Mascarenhas, Miguel J. T. (?-?)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Manuela Alves</name>

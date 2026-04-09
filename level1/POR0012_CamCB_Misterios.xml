@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
      <titleStmt>
-        <title>Mistérios de Lisboa: Edição para o ELTeC</title>
-        <author ref="viaf:7399630">Castelo Branco, Camilo (1825-1890)</author>
+        <title ref="wikidata:Q10331148">Mistérios de Lisboa: Edição para o ELTeC</title>
+        <author ref="viaf:7399630 wikidata:Q365423">Castelo Branco, Camilo (1825-1890)</author>
         <respStmt>
 <resp>Criação do HTML original</resp>
 <name>Luso-livros</name>

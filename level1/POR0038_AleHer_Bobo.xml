@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title> O Bobo : Edição para o ELTeC</title>
-<author ref="viaf:2464795">Herculano, Alexandre (1810-1877)</author>
+<title ref="wikidata:Q21515386"> O Bobo : Edição para o ELTeC</title>
+<author ref="viaf:2464795 wikidata:Q520688">Herculano, Alexandre (1810-1877)</author>
 <respStmt>
 <resp>Criação do HTML original</resp>
 <name>Luso-livros</name>

@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
      <titleStmt>
-        <title>A Ala dos Namorados: Edição para o ELTeC</title>
-        <author ref="viaf:51255962">Campos Junior, António (1850-1917)</author>
+        <title ref="wikidata:Q111096170">A Ala dos Namorados: Edição para o ELTeC</title>
+        <author ref="viaf:51255962 wikidata:Q20045606">Campos Junior, António (1850-1917)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Luso-Livros</name>

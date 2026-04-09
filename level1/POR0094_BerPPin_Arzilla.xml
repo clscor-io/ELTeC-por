@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Arzila: Edição para o ELTeC</title>
+<title ref="wikidata:Q111096205">Arzila: Edição para o ELTeC</title>
 <title level="s">Romance do século XV </title>
-<author ref="viaf:98582867">Pinheiro, Bernardino Pereira (1837-1896)</author>
+<author ref="viaf:98582867 wikidata:Q16497940">Pinheiro, Bernardino Pereira (1837-1896)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Alina Baldé</name>

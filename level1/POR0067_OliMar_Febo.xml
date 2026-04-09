@@ -7,8 +7,8 @@
         <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Febo Moniz: Edição para o ELTeC</title>
-<author ref="viaf:59092504">Oliveira Martins, Joaquim Pedro de (1845-1894)</author>
+<title ref="wikidata:Q111096212">Febo Moniz: Edição para o ELTeC</title>
+<author ref="viaf:59092504 wikidata:Q1399091">Oliveira Martins, Joaquim Pedro de (1845-1894)</author>
 <respStmt>
 <resp>Criação do HTML original</resp>
 <name>Vanda Morgado</name>

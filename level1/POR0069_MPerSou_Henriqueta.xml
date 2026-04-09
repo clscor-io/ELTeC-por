@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Henriqueta: Edição para o ELTeC</title>
-<author ref="viaf:99377085">Sousa, Maria Peregrina de (1809-1886)</author>
+<title ref="wikidata:Q111096214">Henriqueta: Edição para o ELTeC</title>
+<author ref="viaf:99377085 wikidata:Q111081944">Sousa, Maria Peregrina de (1809-1886)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Adeliana Silva</name>

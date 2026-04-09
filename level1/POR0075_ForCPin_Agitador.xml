@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>O agitador: Edição para o ELTeC</title>
+<title ref="wikidata:Q111096226">O agitador: Edição para o ELTeC</title>
 <title level="s">Romance </title>
-<author ref="viaf:99791256">Pinto, Fortunato Correia (18??-19??)</author>
+<author ref="viaf:99791256 wikidata:Q111081940">Pinto, Fortunato Correia (18??-19??)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Alina Baldé</name>

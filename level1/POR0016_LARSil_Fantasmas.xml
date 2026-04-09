@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
      <titleStmt>
-        <title>A casa dos fantasmas: Edição para o ELTeC</title>
+        <title ref="wikidata:Q111096172">A casa dos fantasmas: Edição para o ELTeC</title>
 	<title level="s"> Episódio do tempo dos franceses</title>
-        <author ref="viaf:65062129">Silva, Luís Augusto Rebelo da (1822-1871)</author>
+        <author ref="viaf:65062129 wikidata:Q10321293">Silva, Luís Augusto Rebelo da (1822-1871)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Ricardo F. Diogo</name>

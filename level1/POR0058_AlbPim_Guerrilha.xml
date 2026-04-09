@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
      <titleStmt>
-        <title>A guerrilha de Frei Simão: Edição para o ELTeC</title>
+        <title ref="wikidata:Q111096180">A guerrilha de Frei Simão: Edição para o ELTeC</title>
 	<title level="s">Romance histórico</title>
-        <author ref="viaf:64047987">Pimentel, Alberto (1849-1925)</author>
+        <author ref="viaf:64047987 wikidata:Q16487084">Pimentel, Alberto (1849-1925)</author>
         <respStmt>
           <resp>Criação do HTML original</resp>
         <name>Rita Farinha</name>

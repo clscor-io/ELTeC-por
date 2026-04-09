@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
      <titleStmt>
-        <title>O Salústio Nogueira: Edição para o ELTeC</title>
-        <author ref="viaf:51244569">Teixeira de Queirós, Francisco (1848-1919)</author>
+        <title ref="wikidata:Q111096252">O Salústio Nogueira: Edição para o ELTeC</title>
+        <author ref="viaf:51244569 wikidata:Q10379131">Teixeira de Queirós, Francisco (1848-1919)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Adeliana Silva</name>

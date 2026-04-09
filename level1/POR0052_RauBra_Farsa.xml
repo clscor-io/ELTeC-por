@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>A Farsa: Edição para o ELTeC</title>
-<author ref="viaf:17219789">Brandão, Raul (1867-1930)</author>
+<title ref="wikidata:Q111096178">A Farsa: Edição para o ELTeC</title>
+<author ref="viaf:17219789 wikidata:Q2035991">Brandão, Raul (1867-1930)</author>
 <respStmt>
 <resp>Criação do HTML original</resp>
 <name>Luso-Livros</name>

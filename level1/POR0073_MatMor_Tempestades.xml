@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Tempestades do coração: Edição para o ELTeC</title>
+<title ref="wikidata:Q111096274">Tempestades do coração: Edição para o ELTeC</title>
 <title level="s">Romance contemporâneo </title>
-<author ref="viaf:100139864">Moreira, João Baptista de Matos (1845-1899)</author>
+<author ref="viaf:100139864 wikidata:Q111081938">Moreira, João Baptista de Matos (1845-1899)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Madalena Rato</name>

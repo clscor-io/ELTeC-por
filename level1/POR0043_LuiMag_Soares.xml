@@ -7,8 +7,8 @@
         <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>O Brasileiro Soares: Edição para o ELTeC</title>
-<author ref="viaf:14814628">Magalhães, Luís de (1859-1935)</author>
+<title ref="wikidata:Q111096229">O Brasileiro Soares: Edição para o ELTeC</title>
+<author ref="viaf:14814628 wikidata:Q10321364">Magalhães, Luís de (1859-1935)</author>
 <respStmt>
 <resp>Criação do HTML original</resp>
 <name>Adeliana Silva</name>

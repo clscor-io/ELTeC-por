@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title> O Engeitado : Edição para o ELTeC</title>
+<title ref="wikidata:Q111096238"> O Engeitado : Edição para o ELTeC</title>
 <title level="s">Romance cristão</title>
-<author ref="viaf:87349884">Sarmento, Inácio Pizarro de Morais (1807-1870)</author>
+<author ref="viaf:87349884 wikidata:Q10303369">Sarmento, Inácio Pizarro de Morais (1807-1870)</author>
 <respStmt>
 <resp>Criação do HTML original</resp>
 <name>Vanda Morgado</name>

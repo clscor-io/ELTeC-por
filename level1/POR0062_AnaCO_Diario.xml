@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
      <titleStmt>
-        <title>Diário de uma criança: Edição para o ELTeC</title>
-        <author ref="viaf:68982250">Castro Osório, Ana de (1872-1935)</author>
+        <title ref="wikidata:Q111096207">Diário de uma criança: Edição para o ELTeC</title>
+        <author ref="viaf:68982250 wikidata:Q2817249">Castro Osório, Ana de (1872-1935)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
         <name>Pedro Saborano</name>

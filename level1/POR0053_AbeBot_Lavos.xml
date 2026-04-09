@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
      <titleStmt>
-        <title>O Barão de Lavos: Edição para o ELTeC</title>
-        <author ref="viaf:37048086">Botelho, Abel (1856-1917)</author>
+        <title ref="wikidata:Q8773586">O Barão de Lavos: Edição para o ELTeC</title>
+        <author ref="viaf:37048086 wikidata:Q318390">Botelho, Abel (1856-1917)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
         <name>Luso-Livros</name>

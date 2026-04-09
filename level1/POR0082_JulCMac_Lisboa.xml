@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>A vida em Lisboa: Edição para o ELTeC</title>
+<title ref="wikidata:Q111096199">A vida em Lisboa: Edição para o ELTeC</title>
 <title level="s">romance contemporâneo</title>
-<author ref="viaf:61792274">Machado, Júlio César (1835-1890) </author>
+<author ref="viaf:61792274 wikidata:Q10313403">Machado, Júlio César (1835-1890) </author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Inês Lucas</name>

@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>A bruxa : Edição para o ELTeC</title>
+<title ref="wikidata:Q111096171">A bruxa : Edição para o ELTeC</title>
 <title level="s">Cenas açorianas </title>
-<author ref="viaf:201044294">Loureiro, Augusto (1840-?)</author>
+<author ref="viaf:201044294 wikidata:Q19607717">Loureiro, Augusto (1840-?)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Vanda Morgado</name>

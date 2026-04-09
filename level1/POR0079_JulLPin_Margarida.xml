@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Margarida: Edição para o ELTeC</title>
+<title ref="wikidata:Q111096220">Margarida: Edição para o ELTeC</title>
 <title level="s">Scenas da vida contemporanea </title>
-<author ref="viaf:302032361">Pinto, Júlio Lourenço (1842-1907)</author>
+<author ref="viaf:302032361 wikidata:Q10313447">Pinto, Júlio Lourenço (1842-1907)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Vanda Morgado</name>

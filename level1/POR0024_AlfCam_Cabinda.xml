@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
      <titleStmt>
-        <title>A filha do Cabinda: Edição para o ELTeC</title>
-        <author ref="viaf:306447935">Campos, Alfredo Luís de (1856-1931)</author>
+        <title ref="wikidata:Q111096179">A filha do Cabinda: Edição para o ELTeC</title>
+        <author ref="viaf:306447935 wikidata:Q9603051">Campos, Alfredo Luís de (1856-1931)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Pedro Saborano</name>

@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>O Conde de Castel Melhor: Edição para o ELTeC</title>
+<title ref="wikidata:Q111096230">O Conde de Castel Melhor: Edição para o ELTeC</title>
 <title level="s">romance histórico </title>
-<author ref="viaf:12317246">Câmara, João Maria Evangelista Gonçalves Zarco da (1852-1908)</author>
+<author ref="viaf:12317246 wikidata:Q10311573">Câmara, João Maria Evangelista Gonçalves Zarco da (1852-1908)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Inês Lucas</name>

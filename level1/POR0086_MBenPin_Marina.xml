@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Marina: Edição para o ELTeC</title>
+<title ref="wikidata:Q111096221">Marina: Edição para o ELTeC</title>
 <title level="s">Romance passional </title>
-<author ref="viaf:99357484">Pinho, Maria Benedicta Mousinho de Albuquerque (1865-1939)</author>
+<author ref="viaf:99357484 wikidata:Q61000747">Pinho, Maria Benedicta Mousinho de Albuquerque (1865-1939)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Madalena Rato</name>

@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>No tempo dos francezes: Edição para o ELTeC</title>
-<author ref="viaf:99791256">Benevides, Francisco da Fonseca (1836-1911)</author>
+<title ref="wikidata:Q111096224">No tempo dos francezes: Edição para o ELTeC</title>
+<author ref="viaf:99791256 wikidata:Q111081940">Benevides, Francisco da Fonseca (1836-1911)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Alina Balté</name>
